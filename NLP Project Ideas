@@ -1,0 +1,21 @@
+I am going to work on the following topics:
+
+1) Retrieving information
+Information retrieval: return documents in response to a user query (Internet Search is a special case)
+Information extraction: discover specific information from a set of documents (e.g. companies and their founders)
+Question answering: answer a specific user question by returning a section of a document.
+
+
+2) Opinion mining and sentiment analysis
+Finding out what people think about politicians, products, companies etc.
+Typically done on web documents and social media
+
+
+3) Automated fact checking
+Classify statements and news articles as factual or not
+In an effort to combat misinformation
+
+
+4) Abusive language detection
+Automated detection and moderation of online abuse
+Hate speech, racism, sexism, personal attacks, cyberbullying etc
